@@ -1,0 +1,14 @@
+arrow
+colorama
+enum34
+moment
+namedlist
+py
+pytest
+allure-pytest
+pytest-gitignore
+python-dateutil
+pytz
+selenium==3.141.0
+six
+times
